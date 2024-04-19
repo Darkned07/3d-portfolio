@@ -2,7 +2,7 @@
 
 import "react-vertical-timeline-component/style.min.css";
 
-const About = () => {
+const Resume = () => {
   return (
     <section className="max-container">
      
@@ -16,4 +16,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Resume;
