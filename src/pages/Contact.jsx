@@ -103,7 +103,7 @@ const Contact = () => {
               type="email"
               name="email"
               className="input"
-              placeholder="muhammadyusuf0719@gmail.com"
+              placeholder="kinoizlovchi@gmail.com"
               required
               value={form.email}
               onChange={handleChange}
@@ -117,7 +117,7 @@ const Contact = () => {
               name="message"
               rows="4"
               className="textarea"
-              placeholder="Write your thoughts here..."
+              placeholder="Write your thoughts here..., call me +998 90 166 70 55"
               value={form.message}
               onChange={handleChange}
               onFocus={handleFocus}
