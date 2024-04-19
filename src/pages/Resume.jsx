@@ -8,7 +8,7 @@ const About = () => {
      
 
     
-
+  <h1>resume</h1>
      
 
       
