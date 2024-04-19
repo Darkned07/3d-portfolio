@@ -27,6 +27,7 @@ const Navbar = () => {
         </NavLink>
         <NavLink
           to="https://t.me/Cyber_0719"
+          target="_blank"
           className={({ isActive }) =>
             isActive ? "text-blue-600" : "text-black"
           }
