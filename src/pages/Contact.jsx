@@ -112,7 +112,7 @@ const Contact = () => {
             />
           </label>
           <label className="text-black-500 font-semibold">
-            Your Message or call me +998 90 166 70 55
+            Your Message or call me <a target="_blank" href="tel:+998 90 166 70 55">+998 90 166 70 55</a>
             <textarea
               name="message"
               rows="4"
