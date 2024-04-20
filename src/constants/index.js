@@ -14,6 +14,15 @@ import {
   sass,
   snapgram,
   tailwindcss,
+  summiz,
+  mui,
+  pricewise,
+  nextjs,
+  mongodb,
+  threads,
+  twitter,
+  motion,
+  arrow,
 } from "../assets/icons";
 
 export const skills = [
@@ -103,7 +112,7 @@ export const socialLinks = [
 export const projects = [
   {
     iconUrl: car,
-    theme: "btn-back-red",
+    theme: "btn-back-pink",
     name: "Github users search",
     description:
       "githubdagi user nomini yozsangiz o;sha user xaqidagi malumotlarni olib keladi.",
@@ -111,17 +120,56 @@ export const projects = [
   },
   {
     iconUrl: estate,
-    theme: "btn-back-red",
+    theme: "btn-back-orange",
     name: "age calculator",
     description: "yoshingizni hisoblab beradi.",
     link: "https://github.com/Darkned07/age-calculator",
   },
   {
     iconUrl: snapgram,
-    theme: "btn-back-red",
+    theme: "btn-back-green",
     name: "chicken recipies",
     description:
       "chisken recipies saytida ovqatlar ro'yxatini korishingiz mumkun va qo'shishingiz mumkun.",
     link: "https://github.com/Darkned07/imtihon6",
+  },
+  {
+    iconUrl: motion,
+    theme: "btn-back-yellow",
+    name: "Kinolar izlovchi",
+    description:
+      "Kinolar izlovchi saytida kinolarni topishga yordam beradi kinolarni telegramdan izlagandan shu saytdan izlagan yaxshi ossongina sizni telegramdagi o'sha kinoni oldiga yuboradi.",
+    link: "https://github.com/Darkned07/kinolar",
+  },
+  {
+    iconUrl: nextjs,
+    theme: "btn-back-black",
+    name: "Kino izlovchi",
+    description:
+      "Kino izlovchi sayti nextjs da qilingan kinolarni ossongina topish uchun qilingan edi bu saytda kinolarni telegramdan topishingiz uchun yasaganmiz.",
+    link: "https://github.com/Darkned07/kinolar_olami",
+  },
+  {
+    iconUrl: shopify,
+    theme: "btn-back-blue",
+    name: "Chicken farm",
+    description:
+      "Bu sayt toliq bolmagan sababi firebase bilan redux kelisha olmagani sababli lekin saytning asosiy vazifasi tovuq o'yini edi unda tovuq sotib olib pul ishlash mumkun bolar edi.",
+    link: "https://github.com/Darkned07/chicken",
+  },
+  {
+    iconUrl: threads,
+    theme: "btn-back-red",
+    name: "Wether app",
+    description:
+      "ushbu wether app sayti orqali siz obi xvoni bilishingiz mumkun boladi.",
+    link: "https://github.com/Darkned07/wetherapp",
+  },
+  {
+    iconUrl: mongodb,
+    theme: "btn-back-green",
+    name: "Audiophile sotuv dokoni",
+    description: "BU naushnik, quloqchinlar va karnaylar sotadigan sayt.",
+    link: "https://github.com/Darkned07/example7",
   },
 ];
