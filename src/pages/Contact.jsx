@@ -112,7 +112,7 @@ const Contact = () => {
             />
           </label>
           <label className="text-black-500 font-semibold">
-            Your Message
+            Your Message or call me +998 90 166 70 55
             <textarea
               name="message"
               rows="4"
